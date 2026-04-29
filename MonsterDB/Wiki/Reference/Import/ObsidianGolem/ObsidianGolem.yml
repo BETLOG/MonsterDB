@@ -8,7 +8,8 @@ IsCloned: true
 Character:
   name: $enemy_obsidiangolem
   randomArmor:
-  - ObsidianGolem_hat
+#  - ObsidianGolem_hat
+  - ObsidianGolem_StoneGolem_hat  
   randomSets:
   - name: Spike
     items:
